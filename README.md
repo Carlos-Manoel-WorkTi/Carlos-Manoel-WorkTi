@@ -11,6 +11,18 @@
 
 ### Tecnologias que estou aprendendo💻🖱️
 
+	<div class="main2" style="margin:20px;background: gray;width: 300px;">
+				<h1 style="font-size: 20px;background: black;color:white;
+				text-align: Center;margin: 0;border-bottom: 3px solid red;
+				">Linguagens dominadas</h1>
+				<div class="main3" style="border: 2px solid Black;display: flex;flex-direction: column;">
+					<span>python</span>
+					<span>Javascript</span>
+					<span>Sql</span>
+				</div>
+
+
+
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() [![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
