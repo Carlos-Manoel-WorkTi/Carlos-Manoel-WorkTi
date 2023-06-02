@@ -8,9 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/Carlos-Manoel-WorkTi)
 
-
-[![°°°](https://github.com/anuraghazra/github-readme-stats)]()
-
+https://github.com/anuraghazra/github-readme-stats
 
 
 ### Tecnologias que estou aprendendo💻🖱️
