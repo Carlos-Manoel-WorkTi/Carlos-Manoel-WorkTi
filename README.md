@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Manoel-WorkTi&show_icons=true&theme=dracula)
 
+![Estatísticas](https://starchart.cc/{username}/{repo}.svg)
+
 ### Tecnologias que estou a aprender
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
