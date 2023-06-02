@@ -11,7 +11,7 @@
 
 ### Tecnologias que estou aprendendo💻🖱️
 
-![py]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />)
+[![py]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />)]()
           
           
 
