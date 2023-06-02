@@ -11,11 +11,9 @@
 
 ### Tecnologias que estou aprendendo💻🖱️
 
-	<div class="main2" style="margin:20px;background: gray;width: 300px;">
-				<h1 style="font-size: 20px;background: black;color:white;
-				text-align: Center;margin: 0;border-bottom: 3px solid red;
-				">Linguagens dominadas</h1>
-				<div class="main3" style="border: 2px solid Black;display: flex;flex-direction: column;">
+	<div style="margin:20px;background:gray;width:300px;">
+				<h1 style="font-size: 20px;background: black;color:white;text-align: Center;margin: 0;border-bottom: 3px solid red;">Linguagens dominadas</h1>
+				<div style="border: 2px solid Black;display: flex;flex-direction: column;">
 					<span>python</span>
 					<span>Javascript</span>
 					<span>Sql</span>
