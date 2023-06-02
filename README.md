@@ -5,9 +5,9 @@
 
 ![Meu perfil ](https://github-readme-stats.vercel.app/api?username=Carlos-Manoel-WorkTi&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Manoel-WorkTi &layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que estou a aprender
+### Tecnologias que estou aprendendo💻🖱️
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
