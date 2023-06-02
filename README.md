@@ -6,7 +6,7 @@
 ![Meu perfil ](https://github-readme-stats.vercel.app/api?username=Carlos-Manoel-WorkTi&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Manoel-WorkTi &layout=donut)](https://github.com/)
 
