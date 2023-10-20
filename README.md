@@ -1,4 +1,4 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/Carlos-Manoel-WorkTi/Carlos-Manoel-WorkTi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/Carlos-Manoel-WorkTi/Carlos-Manoel-WorkTi/blob/output/github-contribution-grid-snake.svg)
 
 
 ### olá, meu nome é carlos😁
