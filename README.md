@@ -1,3 +1,6 @@
+![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 ### olá, meu nome é carlos😁
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
