@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/Carlos-Manoel-WorkTi/Carlos-Manoel-WorkTi/blob/output/github-contribution-grid-snake.svg)
-
 
 ### olá, meu nome é carlos😁
 
