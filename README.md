@@ -9,10 +9,6 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmanoelsantosdev@gmail.com)
 [![linkdim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-![Meu perfil](https://github-readme-stats.vercel.app/api?username=Carlos-Manoel-WorkTi&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Manoel-WorkTi&layout=donut)](https://github.com/Carlos-Manoel-WorkTi)
-
 ### Tecnologias que já utilizei em projetos 💻🧠
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
